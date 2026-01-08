@@ -5,7 +5,7 @@ All factual information are based on the attached sources, mainly from reports f
 
 An example of a prompt:
 
-*"This is my method part. Kan you make the english better in terms of grammar and flow? Don't add any information. 
+"This is my method part. Kan you make the english better in terms of grammar and flow? Don't add any information. 
 
 In the project, we have chosen to use a qualitative case study where our analysis is based on publicly available text material. Our method is based on document analysis and policy analysis. 
 
@@ -14,5 +14,5 @@ This method has been chosen to get a comprehensive picture of the incident, its 
 
 For the policy analysis, we have analyzed the content of ISO 27002 and used this standard as a starting point when we identified which technical controls were missing in the incident. The framework is internationally accepted and provides a structured and coherent basis for policy development. Starting from ISO 27002 has given us structured guidance. The limitation, however, is that the standard needs to be interpreted for this specific case, which means that our subjectivity could not be completely avoided.
 
-The method combination of case study with document analysis and policy analysis is appropriate in our case as it would not have been ethically justifiable to reproduce this incident practically."*
+The method combination of case study with document analysis and policy analysis is appropriate in our case as it would not have been ethically justifiable to reproduce this incident practically."
 
