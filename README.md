@@ -9,7 +9,7 @@ Based on ISO/IEC 27002:2022, the project proposes four information security poli
 # Documentation
 
 - [Introduction](introduction.md)
-- [Policies](policies.md)
-- [Policy document](policy_document.md)
 - [Risk analysis](risk_analysis.md)
+- [Policy document](policy_document.md)
+- [Policies](policies.md)
 - [Flowcharts and diagrams](flowcharts_and_diagrams.md)
