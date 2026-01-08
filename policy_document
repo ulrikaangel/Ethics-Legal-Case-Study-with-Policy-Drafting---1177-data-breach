@@ -1,0 +1,9 @@
+The following policy documents are designed based on ISO 27002:2022 and aim to prevent similar incidents in the future. ISO 27002 is utilized as an international guideline to help organizations implement and improve their information security management. By utilizing the standard, organizations can protect their data, build trust between clients and partners, and maintain consistent security practices across different locations and along the supply chain. (ISO, 2022) 
+
+ 
+
+Moreover, it also helps ensure that organizations remain compliant with legislative requirements, such as GDPR. 
+
+ISO standards have been used in healthcare organizations to ensure compliance with legislation and to manage patient data securely. The study “The impact of ISO security standards on enhancing cybersecurity posture in organization” (Folorunso et al. 2024) describes how a healthcare organization implemented an ISO standard to establish guidelines for handling personally identifiable information. The purpose was to improve privacy management in practice and to ensure compliance with regulations such as GDPR. By implementing this system, the organization was able to protect personal data through encryption, anonymization, and role-based access but also to distinctly define responsibilities and roles within the organization 
+
+The main issues with the 1177 data breach were that system was misconfigured which led to that the server allowed communication in plaintext. The organization had also hired a subcontractor with other regulations than EU. Since the system provides sensitive information, the consequences were severe. Therefore, the following four policies regarding system hardening and secure configuration, encryption, supplier security and handling of sensitive information were designed.  
