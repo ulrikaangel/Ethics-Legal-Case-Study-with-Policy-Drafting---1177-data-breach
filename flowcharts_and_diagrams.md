@@ -4,7 +4,7 @@ The diagram illustrates the complete incident response workflow, beginning with 
 
 <img width="554" height="416" alt="Skärmbild 2025-12-05 094559" src="https://github.com/user-attachments/assets/8cba15ce-35db-4743-b723-e3b0c4cf17f4" />
 <img width="711" height="567" alt="Skärmbild 2025-11-19 153001" src="https://github.com/user-attachments/assets/96434981-26d4-4d6f-a6ef-0da840c3c09d" />
-Illustration of how patient data and communication flow securely between regions, 1177, service providers, and technical subcontractors. 
+     Illustration of how patient data and communication flow securely between regions, 1177, service providers, and technical subcontractors. 
 
  
 
