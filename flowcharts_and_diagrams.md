@@ -1,6 +1,7 @@
 <img width="150" height="427" alt="flowchart " src="https://github.com/user-attachments/assets/7de82e4d-5a50-4a53-a29d-5c09bea9a8e7" />
 
 Picture: Flow chart Incident Response
+
 The diagram illustrates the complete incident response workflow, beginning with the detection of an incident and its internal reporting. The security administrator then performs an initial assessment to determine what has occurred and whether patient data has been affected. Based on this assessment, the process decides whether the incident is critical. Non-critical incidents are handled locally and documented. Critical incidents are escalated to the incident response team, who isolate affected systems, mitigate the risk, and collect evidence such as logs. Once the situation is stabilized, operations are restored and a formal analysis is carried out. The process concludes with a final report summarizing findings and recommending improvements to prevent similar incidents in the future.
 
 <img width="554" height="416" alt="Skärmbild 2025-12-05 094559" src="https://github.com/user-attachments/assets/8cba15ce-35db-4743-b723-e3b0c4cf17f4" />
