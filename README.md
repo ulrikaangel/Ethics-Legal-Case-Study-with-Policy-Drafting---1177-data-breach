@@ -6,7 +6,7 @@ Using a qualitative case study approach, the project is based on document and po
 
 Based on ISO/IEC 27002:2022, the project proposes four information security policies focusing on system hardening, cryptography, supplier security, and handling of sensitive information. The findings demonstrate how robust technical and organizational controls are essential to prevent similar incidents and to maintain trust in digital healthcare services. 
 
-# Dokumentation
+# Documentation
 
 - [Introduction](introduction.md)
 - [Policies](policies.md)
