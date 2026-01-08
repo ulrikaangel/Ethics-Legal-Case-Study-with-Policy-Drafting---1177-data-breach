@@ -1,1 +1,3 @@
+ChatGPT has been used as a supporting tool during the writing process of this project. AI was applied mainly to assist with languange grammar and structure. It was not used to generate any factual content. 
 
+All factual information are based on the attached sources, mainly from reports from the Swedish Authority for Privacy Protection (IMY), GDPR and the Patient Data Act. The reason for choosing Chat GPT instead of any other LLMs such as Ollama, because the training of such models would have been to inefficient for this project. The authors had a clear vision of how the tool would be used, and all material provided to ChatGPT are derived from publicy available sources. No sensitive or confidential information has been submitted to the tool. 
