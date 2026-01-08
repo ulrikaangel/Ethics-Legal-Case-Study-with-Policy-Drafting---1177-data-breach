@@ -5,3 +5,11 @@ This project examines the 2019 1177 Vårdguiden data breach, one of the most ser
 Using a qualitative case study approach, the project is based on document and policy analysis of reports from the Swedish Authority for Privacy Protection (IMY), relevant legislation such as GDPR and the Patient Data Act, and established security frameworks. The incident is analyzed from both a risk management and IT-forensic perspective, highlighting the importance of monitoring, logging, and incident detection. 
 
 Based on ISO/IEC 27002:2022, the project proposes four information security policies focusing on system hardening, cryptography, supplier security, and handling of sensitive information. The findings demonstrate how robust technical and organizational controls are essential to prevent similar incidents and to maintain trust in digital healthcare services. 
+
+# Dokumentation
+
+- [Introduction](introduction.md)
+- [Policies](policies.md)
+- [Policy document](policy_document.md)
+- [Risk analysis](risk_analysis.md)
+- [Flowcharts and diagrams](flowcharts_and_diagrams.md)
