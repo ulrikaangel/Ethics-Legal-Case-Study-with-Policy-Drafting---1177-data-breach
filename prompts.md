@@ -2,9 +2,10 @@ ChatGPT has been used as a supporting tool during the writing process of this pr
 
 All factual information are based on the attached sources, mainly from reports from the Swedish Authority for Privacy Protection (IMY), GDPR and the Patient Data Act. The reason for choosing Chat GPT instead of any other LLMs such as Ollama, because the training of such models would have been to inefficient for this project. The authors had a clear vision of how the tool would be used, and all material provided to ChatGPT are derived from publicy available sources. No sensitive or confidential information has been submitted to the tool.
 
+
 An example of a prompt:
 
-This is my method part. Kan you make the english better in terms of grammar and flow? Don't add any information. 
+"This is my method part. Kan you make the english better in terms of grammar and flow? Don't add any information. 
 
 In the project, we have chosen to use a qualitative case study where our analysis is based on publicly available text material. Our method is based on document analysis and policy analysis. 
 
