@@ -7,6 +7,7 @@ The diagram illustrates the complete incident response workflow, beginning with 
 <img width="554" height="416" alt="Skärmbild 2025-12-05 094559" src="https://github.com/user-attachments/assets/8cba15ce-35db-4743-b723-e3b0c4cf17f4" />
 
 Process flow chart is created in Canva
+
 Illustration of how patient data and communication flow securely between regions, 1177, service providers, and technical subcontractors. 
 The management of information within the 1177 service for the Regions of Stockholm, Värmland, and Sörmland is organized through a structured chain of responsibility. While the regions hold overall accountability, the 1177 platform is operated by Inera AB on their behalf. 
 
